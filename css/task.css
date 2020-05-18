@@ -1,0 +1,71 @@
+#root {
+    width: 100%;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+h1 {
+    width: 100%;
+    margin: 20px 20px;
+    text-align: center;
+}
+
+form {
+    width: 100%;
+    display: inline-block;
+    background-color: cornsilk;
+    border: solid #ccc;
+    padding: 2rem;
+    margin: 20px 20px;
+}
+input {
+    margin: 10px;
+    width: 100%;
+    line-height: 21px;
+    font-size: 20px;
+}
+textarea {
+    width: 100%;
+    margin: 10px;
+    height: 50px;
+    line-height: 30px;
+    font-size: 22px;
+
+}
+.btn {
+    width: 20%;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px 0 0 10px;
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 0 8px 8px #c2c2c2;
+    font-size: 18px;
+}
+.btn.red{
+    background-color: red;
+    color: #fff;
+}
+.btn.blue {
+    background-color: blue;
+    color: #fff;
+}
+.btn.grey {
+    background-color: #ccc;
+
+}
+
+section {
+    display: inline-block;
+    width: 100%;
+    background-color: crimson;
+}
+
+.item {
+    width: 45%;
+    background-color: blue;
+    padding: 20px;
+    margin: 10px 10px;
+    color: #fff;
+}
+
+
